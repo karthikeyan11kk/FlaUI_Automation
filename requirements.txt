@@ -1,0 +1,6 @@
+pywinauto
+pytest
+pytest-html
+xlrd
+openpyxl
+Pillow
